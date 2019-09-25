@@ -96,8 +96,10 @@ python tsne_common_space.py --ckpt checkpoints/amal_densenet121_best.pth --t1_ck
 
 ## Authors
 
-[Sihui Luo]() - sihuiluo829@zju.edu.cn  
-[Gongfan Fang](https://github.com/VainF) - fgfvain97@zju.edu.cn  
+| | |
+|:--------------:|:-----:|
+[Sihui Luo]() | sihuiluo829@zju.edu.cn 
+[Gongfan Fang](https://github.com/VainF) | fgfvain97@zju.edu.cn  
 
 [Homepage of VIPA Group](https://www.vipazoo.cn/index_en.html), Zhejiang University, China
 
